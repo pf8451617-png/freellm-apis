@@ -1,0 +1,9 @@
+{
+  "last_verified": "2026-11-26",
+  "providers": [
+    { "name": "OpenRouter", "free_limits": "20 req/min; 50 req/dia (1.000/dia com US$ 10 em créditos)" },
+    { "name": "Groq", "free_limits": "Varia por modelo; ver console" },
+    { "name": "Google Gemini", "free_limits": "Por projeto, ver AI Studio" },
+    { "name": "Cerebras", "free_limits": "Free Trial US$ 5 (não permanente)" }
+  ]
+}
